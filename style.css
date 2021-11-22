@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+
+#foto {
+    max-height: 75vh;
+}
+
+#nome {
+    font-size: 3em;
+    font-variant: small-caps;
+}
